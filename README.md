@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eniola
-- 👀 I’m interested in Front end Development
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Full-Stack Web and App Development
+- 🌱 I’m currently learning Python, Front-end, Back-end.
 - 💞️ I’m looking to collaborate in the future 
 - 📫 How to reach me. eenijeshiku@gmail.com
 - ⚡ Fun fact
