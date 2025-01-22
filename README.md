@@ -1,22 +1,23 @@
 Hi, I'm ENIJESHIKU ELIJAH ENIOLA 👋
 I am a growing Software Engineer. Driven by a curiosity for technology and a love for writing code and building solutions. My journey involves delving into the world of Engineering, exploring new ideas, and sharing my insights with the community.
 
-🚀 About Me
+##🚀 About Me
+
 🔭 I'm a undergraduate of KWASU with B.sc in Mechanical Engineering.
 📝 I turn designs into solutions.
 🌱 Currently Exploring Pyhton, C, C++.
 Practicing JavaScript with Typescript.
 Styling with Tailwind CSS to create modern and responsive user interfaces.
 
- 💻 Tech Stack:
+ ## 💻 Tech Stack:
 HTML, CSS, JavaScript, Typescript, C, C++, Python, Node.js, React.
 
-🏆 Achievements
+## 🏆 Achievements
 Completed a 30daysOfCode challenge 2024 with CODEFLEX.
 I completed the TechyJuant Frontend Development course and obtained the certificate. 
 Picked and completed various frontend mentor challenges and roadmap.sh challenges. 
 
-📬 Get in Touch?
+## 📬 Get in Touch?
 Connect with me on  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/https://x.com/@Henneiiy) 
 
 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/enijeshiku-eniola-432a52317/)
