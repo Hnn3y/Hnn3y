@@ -1,12 +1,16 @@
 Hi, I'm ENIJESHIKU ELIJAH ENIOLA 👋
 I am a growing Software Engineer. Driven by a curiosity for technology and a love for writing code and building solutions. My journey involves delving into the world of Engineering, exploring new ideas, and sharing my insights with the community.
 
-##🚀 About Me
+## 🚀 About Me
 
 🔭 I'm a undergraduate of KWASU with B.sc in Mechanical Engineering.
+
 📝 I turn designs into solutions.
+
 🌱 Currently Exploring Pyhton, C, C++.
+
 Practicing JavaScript with Typescript.
+
 Styling with Tailwind CSS to create modern and responsive user interfaces.
 
  ## 💻 Tech Stack:
