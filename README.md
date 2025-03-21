@@ -7,7 +7,7 @@ I am a growing Software Engineer. Driven by a curiosity for technology and a lov
 
 📝 I turn designs into solutions.
 
-🌱 Currently Exploring Pyhton, C, C++.
+🌱 Currently Exploring Python, C, C++.
 
 Practicing JavaScript with Typescript.
 
