@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Enijeshiku Elijah Eniola
+# 👋 Hi, I'm Enijeshiku Elijah Eniola
 
 I'm a **Software Engineer** in the making, blending a background in **Mechanical Engineering** with a love for code, creativity, and problem-solving. I thrive on building solutions, learning new technologies, and sharing insights with the developer community.
 
