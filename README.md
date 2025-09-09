@@ -4,7 +4,7 @@ I'm a **Software Engineer** in the making, blending a background in **Mechanical
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 Undergraduate at **Kwara State University**, majoring in **Mechanical Engineering**.  
 💡 Bridging the gap between hardware and software—because tomorrow’s leaders master both.  
@@ -12,15 +12,16 @@ I'm a **Software Engineer** in the making, blending a background in **Mechanical
 📈 On a mission to build startups, intelligent systems, and future-defining platforms.
 
 💡 Currently exploring:
-- 🐍 Python, C, C++
-- 🟨 JavaScript & TypeScript
-- 🎨 Tailwind CSS & modern UI/UX  
+-  Python, C, C++
+-  JavaScript & TypeScript
+-  CAD
+-  EMBEDDED SYSTEMS AND MICROCONTROLLERS  
 
 I'm focused on crafting **clean, maintainable, and scalable software** while embracing the journey of lifelong learning and technical growth.
 
 ---
 
-## 💼 What I Do
+## What I Do
 
 - 🚀 Turn ideas and designs into real-world software
 - 🧩 Solve problems with code and logical engineering thinking
@@ -31,9 +32,9 @@ I'm focused on crafting **clean, maintainable, and scalable software** while emb
  # 💻🛠 Tech Stack:
 
 ```txt
-💻 Languages:        JavaScript | TypeScript | HTML | CSS | C | C++ | Python
-⚙️ Frameworks/Libs:   Node.js | React.js | Express | Tailwind CSS
-🧰 Tools:            Git & GitHub | VS Code | Figma | Postman | MongoDB (Learning)
+ Languages:        JavaScript | TypeScript | HTML | CSS | C | C++ | Python
+⚙ Frameworks/Libs:   Node.js | React.js | Express | Tailwind CSS
+Tools:            Git & GitHub | VS Code | Figma | Postman | MongoDB (Learning)
 ```
 
 **Current Focus**  
