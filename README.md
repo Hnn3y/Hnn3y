@@ -35,7 +35,7 @@ I'm focused on crafting **clean, maintainable, and scalable software** while emb
 
 ```txt
  Languages:        JavaScript | TypeScript | HTML | CSS | C | C++ | Python
-⚙ Frameworks/Libs:   Node.js | React.js | Express | Tailwind CSS
+⚙Frameworks/Libs:   Node.js | React.js | Express | Tailwind CSS
 Tools:            Git & GitHub | VS Code | Figma | Postman | MongoDB (Learning)
 ```
 
