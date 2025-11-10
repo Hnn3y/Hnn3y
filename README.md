@@ -20,15 +20,6 @@ I'm focused on crafting **clean, maintainable, and scalable software** while emb
 -  IOT Devices
 -  ETHICAL HACKING AND CYBERSECURITY
 -  CHESS
-
----
-
-## What I Do
-
-- 🚀 Turn ideas and designs into real-world software
-- 🧩 Solve problems with code and logical engineering thinking
-- 🛠️ Build interfaces that are beautiful, functional, and accessible
-- 🌍 Learn and contribute to open-source and tech communities
   
 ---
  # 💻🛠 Tech Stack:
@@ -49,7 +40,7 @@ Tools:            Git & GitHub | VS Code | Figma | Postman | MongoDB (Learning)
 
 # 🏆 Achievements & Milestones
 
-✅ Completed **30DaysOfCode (2024)** with Codeflex  
+✅ Joined Kodnerds community  
 ✅ TechyJuant Certified Frontend Developer  
 ✅ Solved real-world challenges via **Frontend Mentor** and **roadmap.sh**  
 ✅ Building full-stack projects: Auth Systems, AI Blog Writers, Chat Apps & more  
