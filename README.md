@@ -3,6 +3,8 @@
 I'm a **Software Engineer** in the making, blending a background in **Mechanical Engineering** with a love for code, creativity, and problem-solving. I thrive on building solutions, learning new technologies, and sharing insights with the developer community.
 
 I'm focused on crafting **clean, maintainable, and scalable software** while embracing the journey of lifelong learning and technical growth.
+
+> Let’s talk tech, ideas, leadership, and the future.
 ---
 
 ## About Me
@@ -57,10 +59,6 @@ Tools:            Git & GitHub | VS Code | Figma | Postman | MongoDB (Learning)
 - Own an aviation brand, from aircraft design to airport infrastructure.  
 
 ---
-
-## 📬 Get in Touch?
-
-> Let’s talk tech, ideas, leadership, and the future.
 
 ## 🌐 Socials:
 Connect with me on  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/https://x.com/@Henneiiy) 
